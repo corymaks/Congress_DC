@@ -1,4 +1,10 @@
 /*
+E. Lawrence project on relationship between DC and Congress
+
+Cory Maks
+George Washinton University
+Using Stata 13.1
+
 Extracting U.S. House votes about DC (Peltzman classification)
 DW-NOMINATE issue codes from: http://voteview.com/dw-nominate_textfile.html
 */
